@@ -1,0 +1,80 @@
+/* Coffee Color Scheme - Inspired by coffee beans and cream */
+/* Light mode: Creamy whites and warm beiges with coffee brown accents */
+/* Dark mode: Rich coffee browns with cream highlights */
+
+:root {
+  /* Neutral colors - Cream and beige palette for light mode */
+  --color-neutral-50: 254, 252, 247;    /* Very light cream */
+  --color-neutral-100: 251, 247, 237;   /* Light cream */
+  --color-neutral-200: 245, 237, 218;   /* Soft beige */
+  --color-neutral-300: 237, 223, 195;   /* Light beige */
+  --color-neutral-400: 224, 204, 168;   /* Medium beige */
+  --color-neutral-500: 205, 181, 140;   /* Coffee cream */
+  --color-neutral-600: 154, 128, 93;    /* Light coffee - darker for better readability */
+  --color-neutral-700: 123, 101, 71;    /* Medium coffee - darker for better readability */
+  --color-neutral-800: 92, 75, 52;      /* Dark coffee - darker for better readability */
+  --color-neutral-900: 65, 54, 40;      /* Very dark coffee - much darker for text */
+
+  /* Primary colors - Coffee brown palette */
+  --color-primary-50: 251, 247, 242;    /* Very light coffee cream */
+  --color-primary-100: 245, 237, 223;   /* Light coffee cream */
+  --color-primary-200: 233, 218, 189;   /* Soft coffee beige */
+  --color-primary-300: 210, 186, 146;   /* Light coffee brown */
+  --color-primary-400: 180, 154, 115;   /* Medium coffee brown */
+  --color-primary-500: 139, 115, 85;    /* Coffee brown */
+  --color-primary-600: 111, 92, 68;     /* Dark coffee brown */
+  --color-primary-700: 87, 72, 53;      /* Rich coffee */
+  --color-primary-800: 65, 54, 40;      /* Deep coffee */
+  --color-primary-900: 45, 37, 28;      /* Espresso */
+
+  /* Secondary colors - Warm accent palette (caramel/amber tones) */
+  --color-secondary-50: 255, 252, 240;  /* Light caramel cream */
+  --color-secondary-100: 254, 243, 199; /* Caramel cream */
+  --color-secondary-200: 253, 230, 138; /* Light caramel */
+  --color-secondary-300: 252, 211, 77;  /* Medium caramel */
+  --color-secondary-400: 251, 191, 36;  /* Caramel */
+  --color-secondary-500: 245, 158, 11;  /* Rich caramel */
+  --color-secondary-600: 217, 119, 6;   /* Dark caramel */
+  --color-secondary-700: 180, 83, 9;    /* Burnt caramel */
+  --color-secondary-800: 146, 64, 14;   /* Deep caramel */
+  --color-secondary-900: 120, 53, 15;   /* Darkest caramel */
+}
+
+/* Dark mode overrides - Rich coffee palette */
+.dark {
+  /* Neutral colors - Much darker coffee palette */
+  --color-neutral-50: 18, 15, 11;       /* Almost black coffee */
+  --color-neutral-100: 28, 23, 17;      /* Very dark espresso */
+  --color-neutral-200: 38, 31, 23;      /* Dark espresso */
+  --color-neutral-300: 50, 41, 30;      /* Deep coffee */
+  --color-neutral-400: 65, 54, 40;      /* Rich coffee */
+  --color-neutral-500: 87, 72, 53;      /* Medium coffee */
+  --color-neutral-600: 111, 92, 68;     /* Light coffee */
+  --color-neutral-700: 139, 115, 85;    /* Coffee brown */
+  --color-neutral-800: 180, 154, 115;   /* Cream coffee */
+  --color-neutral-900: 224, 204, 168;   /* Light cream */
+
+  /* Primary colors - Much darker coffee tones for dark mode */
+  --color-primary-50: 18, 15, 11;       /* Almost black coffee */
+  --color-primary-100: 28, 23, 17;      /* Very dark espresso */
+  --color-primary-200: 38, 31, 23;      /* Dark espresso */
+  --color-primary-300: 50, 41, 30;      /* Deep coffee */
+  --color-primary-400: 65, 54, 40;      /* Rich coffee */
+  --color-primary-500: 87, 72, 53;      /* Medium coffee */
+  --color-primary-600: 111, 92, 68;     /* Light coffee */
+  --color-primary-700: 139, 115, 85;    /* Coffee brown */
+  --color-primary-800: 180, 154, 115;   /* Cream coffee */
+  --color-primary-900: 224, 204, 168;   /* Light cream */
+
+  /* Secondary colors - Warm highlights for dark mode */
+  --color-secondary-50: 120, 53, 15;    /* Darkest caramel */
+  --color-secondary-100: 146, 64, 14;   /* Deep caramel */
+  --color-secondary-200: 180, 83, 9;    /* Burnt caramel */
+  --color-secondary-300: 217, 119, 6;   /* Dark caramel */
+  --color-secondary-400: 245, 158, 11;  /* Rich caramel */
+  --color-secondary-500: 251, 191, 36;  /* Caramel */
+  --color-secondary-600: 252, 211, 77;  /* Medium caramel */
+  --color-secondary-700: 253, 230, 138; /* Light caramel */
+  --color-secondary-800: 254, 243, 199; /* Caramel cream */
+  --color-secondary-900: 255, 252, 240; /* Light caramel cream */
+}
