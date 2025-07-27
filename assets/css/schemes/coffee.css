@@ -42,29 +42,29 @@
 
 /* Dark mode overrides - Rich coffee palette */
 .dark {
-  /* Neutral colors - Dark coffee palette */
-  --color-neutral-50: 45, 37, 28;       /* Espresso */
-  --color-neutral-100: 65, 54, 40;      /* Deep coffee */
-  --color-neutral-200: 87, 72, 53;      /* Rich coffee */
-  --color-neutral-300: 111, 92, 68;     /* Dark coffee brown */
-  --color-neutral-400: 139, 115, 85;    /* Coffee brown */
-  --color-neutral-500: 154, 128, 93;    /* Light coffee */
-  --color-neutral-600: 180, 154, 115;   /* Darker cream */
-  --color-neutral-700: 205, 181, 140;   /* Coffee cream */
-  --color-neutral-800: 224, 204, 168;   /* Medium beige */
-  --color-neutral-900: 245, 237, 218;   /* Soft beige */
+  /* Neutral colors - Much darker coffee palette */
+  --color-neutral-50: 18, 15, 11;       /* Almost black coffee */
+  --color-neutral-100: 28, 23, 17;      /* Very dark espresso */
+  --color-neutral-200: 38, 31, 23;      /* Dark espresso */
+  --color-neutral-300: 50, 41, 30;      /* Deep coffee */
+  --color-neutral-400: 65, 54, 40;      /* Rich coffee */
+  --color-neutral-500: 87, 72, 53;      /* Medium coffee */
+  --color-neutral-600: 111, 92, 68;     /* Light coffee */
+  --color-neutral-700: 139, 115, 85;    /* Coffee brown */
+  --color-neutral-800: 180, 154, 115;   /* Cream coffee */
+  --color-neutral-900: 224, 204, 168;   /* Light cream */
 
-  /* Primary colors - Lighter coffee tones for dark mode */
-  --color-primary-50: 45, 37, 28;       /* Espresso */
-  --color-primary-100: 65, 54, 40;      /* Deep coffee */
-  --color-primary-200: 87, 72, 53;      /* Rich coffee */
-  --color-primary-300: 111, 92, 68;     /* Dark coffee brown */
-  --color-primary-400: 139, 115, 85;    /* Coffee brown */
-  --color-primary-500: 154, 128, 93;    /* Light coffee */
-  --color-primary-600: 180, 154, 115;   /* Darker cream */
-  --color-primary-700: 205, 181, 140;   /* Coffee cream */
-  --color-primary-800: 224, 204, 168;   /* Medium beige */
-  --color-primary-900: 245, 237, 218;   /* Soft beige */
+  /* Primary colors - Much darker coffee tones for dark mode */
+  --color-primary-50: 18, 15, 11;       /* Almost black coffee */
+  --color-primary-100: 28, 23, 17;      /* Very dark espresso */
+  --color-primary-200: 38, 31, 23;      /* Dark espresso */
+  --color-primary-300: 50, 41, 30;      /* Deep coffee */
+  --color-primary-400: 65, 54, 40;      /* Rich coffee */
+  --color-primary-500: 87, 72, 53;      /* Medium coffee */
+  --color-primary-600: 111, 92, 68;     /* Light coffee */
+  --color-primary-700: 139, 115, 85;    /* Coffee brown */
+  --color-primary-800: 180, 154, 115;   /* Cream coffee */
+  --color-primary-900: 224, 204, 168;   /* Light cream */
 
   /* Secondary colors - Warm highlights for dark mode */
   --color-secondary-50: 120, 53, 15;    /* Darkest caramel */
