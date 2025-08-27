@@ -18,7 +18,7 @@ showWordCount: false
   </p>
   <p style="margin-top: 1rem;">
     💌 Si tienes cualquier duda o comentario sobre alguno de los viajes, la mejor forma es contactarnos en 
-    <a href="mailto:contacto@sospeso.cafe" style="color: #e67e22; text-decoration: none; font-weight: 500;">contacto@sospeso.cafe</a>
+    <a href="mailto:contacto@sopeso.cafe" style="color: #e67e22; text-decoration: none; font-weight: 500;">contacto@sopeso.cafe</a>
   </p>
 </div>
 
@@ -75,7 +75,7 @@ Una escapada perfecta a la luminosa costa andaluza, donde disfrutamos del sol me
 <div style="text-align: center; padding: 2rem; background: #f8f9fa; border-radius: 15px; margin-top: 3rem;">
   <h3 style="color: #2c3e50; margin-bottom: 1rem;"> ¿Tienes Dudas?</h3>
   <p style="color: #7f8c8d; margin-bottom: 1.5rem;">
-        Si tienes cualquier duda o comentario sobre alguno de los viajes, la mejor forma es contactarnos en <a href="mailto:contacto@sospeso.cafe" style="color: #e67e22; text-decoration: none; font-weight: 500;">contacto@sospeso.cafe</a>
+        Si tienes cualquier duda o comentario sobre alguno de los viajes, la mejor forma es contactarnos en <a href="mailto:contacto@sopeso.cafe" style="color: #e67e22; text-decoration: none; font-weight: 500;">contacto@sopeso.cafe</a>
   </p>
   <p style="font-size: 2rem; margin: 0;">💌</p>
 </div>
