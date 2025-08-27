@@ -1,0 +1,11 @@
+{
+  "name": "Sergio Giménez",
+  "image": "/img/sergio_perfil.jpg",
+  "social": [
+    { "link": "https://sergiogimenez.com" },
+    { "email": "mailto:hi@sergiogimenez.com" },
+    { "github": "https://github.com/sergio-gimenez/" },
+    { "mastodon": "https://mastodon.social/@sergiogimenez" },
+    { "x-twitter": "https://twitter.com/username" }
+  ]
+}

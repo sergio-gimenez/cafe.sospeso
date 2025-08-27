@@ -16,13 +16,13 @@ pageRef = "posts"
 weight = 10
 
 [[main]]
-name = "Acerca de"
+name = "Sobre Nosotros"
 pageRef = "acerca_de"
 weight = 20
 
 [[main]]
-name = "Galería"
-pageRef = "galeria"
+name = "Nuestros Viajes"
+pageRef = "viajes"
 weight = 30
 
 #[[main]]
